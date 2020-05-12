@@ -1,4 +1,6 @@
-# Potfolio Data Science
+# Portfolio Data Science
+Ce document présente l'ensemble des projets réalisés lors de ma formation de Data Scientist. Il permet de donner un aperçu des outils que j'ai appris et que j'ai eu l'occasion de mettre en oeuvre.
+## 
 
 ## Prédire les performances d'une centrale électrique
 Mon premier projet Data Science. A l'issue de 10 jours de formation "fondamentaux", j'ai choisi de rester dans le domaine au sein duquel j'ai travaillé pendant les 12 dernières années : les turbines à gaz.
@@ -16,7 +18,7 @@ Entre la régression linéaire qui ne sait pas prédire les "outliers" et l'arbr
 
 
  ![Graphiques de comparaison des modèles](./images/Projet_ML_centrale--01.png)
- 
+##  
 ## Data Mining
 Il s'agissait d'analyser un jeu de données afin de définir la probabilité que 2 personnes décident de se revoir à l'issue d'une séance de speed dating.  
 Pour ceci, je n'ai pas créé de modèle de prédiction mais eu recours à des méthodes traditionnelles de "data mining". Il s'agit d'utiliser différentes méthodes de visualisation de déterminer les relations entre variables.  
